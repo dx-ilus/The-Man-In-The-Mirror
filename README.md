@@ -22,6 +22,6 @@ A lightweight, feature-packed Discord utility bot built with **Discord.js v14**.
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone [https://github.com/your-username/man-in-the-mirror.git](https://github.com/your-username/man-in-the-mirror.git)
-cd man-in-the-mirror
+git clone [https://github.com/dx-ilus/The-Man-In-The-Mirror](https://github.com/dx-ilus/The-Man-In-The-Mirror)
+cd Man-In-The-Mirror
 npm install discord.js dotenv
